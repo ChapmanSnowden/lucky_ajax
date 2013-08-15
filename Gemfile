@@ -15,6 +15,8 @@ gem 'activerecord'
 
 gem 'rake'
 
+gem 'protected_attributes'
+
 group :test do
   gem 'faker'
   gem 'rspec'
